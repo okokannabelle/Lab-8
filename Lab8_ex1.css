@@ -1,0 +1,20 @@
+body {
+  background-color:blue;
+}
+div {
+  border: 3px solid black;
+  margin: 150px;
+}
+p {
+  color: red;
+  border: 2px dashed teal;
+  font-family: sans-serif;
+  font-weight: lighter;
+  margin: 20px;
+  padding: 8px 5px;
+}
+img {
+  border: 2px dashed lightgrey;
+  display: block;
+  padding: 20px;
+}

@@ -1,0 +1,31 @@
+#one {
+  border:dotted;
+  border-color:purple;
+  padding: 256px 0 24px 0;
+  margin: 0.5px;
+  text-align:center;
+}
+#two {
+	color:green;
+  text-align:center;
+  font-size:10px;
+  font-weight:bold;
+}
+#three {
+  color:orange;
+  text-align:left;
+  font-size:40px;
+}
+#four {
+  color:red;
+}
+#five {
+  color:purple;
+  text-align:right;
+  font-size:8px;
+  font-weight:bold;
+}
+#six {
+  color:yellow;
+  text-transform:uppercase;
+}
